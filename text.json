@@ -1,0 +1,16 @@
+{
+  "type": "text",
+  "text": "文字描述",
+  "buttons": [
+    {
+      "title": "echo chen",
+      "type": "postback",
+      "value": "module-372xzIuHC"
+    },
+    {
+      "title": "按鈕2",
+      "type": "web_url",
+      "value": "http://google.com"
+    }
+  ]
+}
